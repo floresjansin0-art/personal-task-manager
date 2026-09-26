@@ -1,0 +1,17 @@
+PERSONAL TASK MANAGER - QUICK START
+
+This package contains the project-specific Laravel files for the assignment.
+It does not include vendor/, node_modules/, or the generated Laravel framework files.
+
+Fastest setup:
+1. Install Laravel with Composer:
+   composer create-project laravel/laravel personal-task-manager
+2. Copy the contents of this package into that Laravel project.
+3. Create a MySQL database named task_manager.
+4. Configure .env.
+5. Run:
+   php artisan key:generate
+   php artisan migrate
+   php artisan serve
+
+Then open http://127.0.0.1:8000
