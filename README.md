@@ -7,7 +7,7 @@ WST21-PM-2026-SF
 
 ## Student Information
 **Student Name:** Jansin Flores  
-**Course & Year:** BSIT - ______ Year
+**Course & Year:** BSIT - 2nd Year
 
 ## Database Used
 MySQL
